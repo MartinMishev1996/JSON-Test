@@ -1,6 +1,6 @@
 {
   "response": {
-  "temperature_2m_max":18,
+  "temperatureМax":18,
   "latitude": 42.0,
   "longitude": 21.375,
   "generationtime_ms": 0.01800060272216797,
